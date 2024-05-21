@@ -1,3 +1,4 @@
+package LAB4.exercise;
 /**
    An interface that describes the operations of a bag of objects.
    @author Frank M. Carrano

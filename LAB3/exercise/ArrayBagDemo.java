@@ -1,3 +1,4 @@
+package LAB3.exercise;
 /** A demonstration of the class ArrayBag
     @author Frank M. Carrano
     @version 4.0

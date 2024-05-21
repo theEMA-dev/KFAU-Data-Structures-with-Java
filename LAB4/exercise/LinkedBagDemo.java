@@ -1,4 +1,4 @@
-package LAB4.exercise1;
+package LAB4.exercise;
 /** A test of the methods add, toArray, isEmpty, and getCurrentSize, 
     as defined in the first draft of the class LinkedBag.
     @author Frank M. Carrano
